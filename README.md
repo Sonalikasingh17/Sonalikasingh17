@@ -43,19 +43,6 @@ Here are some ideas to get you started:
 
 ---
 
-🚀 **Projects**
-- **Multi-label EHR Classification** ([DA5401 ML Challenge])  
-  - Built a deep learning model (4 dense layers, LeakyReLU, Dropout) for multi-label classification on 200K+ EHR embeddings.
-  - Achieved Micro F2 score of 0.8183 on validation data.
-- **Seq2Seq Transliteration** (Dakshina Dataset)  
-  - Optimized Seq2Seq models (RNN, LSTM, GRU) for Roman-to-Devanagari transliteration; boosted validation accuracy by 8%.
-- **Multilingual Language Classifier** (MASSIVE Dataset)  
-  - Built a Naive Bayes classifier for 27 roman-script languages with high prediction accuracy.
-- **Class Imbalance Handling** (IDA2016 Dataset)  
-  - Optimized SVC, Logistic Regression, and Decision Tree classifiers; improved macro-average F1 score on heavily imbalanced data.
-
----
-
 🧑‍💻 **Skills**
 - **Languages:** Python, C, SQL, LaTeX
 - **Libraries/Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, Power BI, MS Excel
