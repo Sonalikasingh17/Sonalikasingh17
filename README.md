@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi, I'm Sonalika Singh! 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-singhsonalika5@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:singhsonalika5@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonalikasingh17/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonalika-singh-994a151a8/)
 <!-- Add more badges or links as needed -->
 
 ---
