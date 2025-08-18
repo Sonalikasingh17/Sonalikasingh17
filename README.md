@@ -16,14 +16,19 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Sonalika Singh! 👋
-
+ 
 [![Gmail Badge](https://img.shields.io/badge/-singhsonalika5@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:singhsonalika5@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonalika-singh-994a151a8/)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sonalikasingh17)
 <!-- Add more badges or links as needed -->
 
 ---
+<h4> Data Science & ML Intern | Python |Transforming Data into Actionable Insights | Passionate About Tech for Good .</h4
+<h4>“To leverage my skills in data analysis, data science, and deep learning to contribute to innovative solutions and organizational growth, while continuously learning and adapting through challenges and achievements.”</h4>  
 
-🎓 **Education**
+---
+
+🎓 **My Education**
 - **Master of Mathematics** (2023–2025), Indian Institute of Technology Madras — CGPA: 7.43
 - **B.Sc. Mathematics** (2018–2021), Patliputra University, Patna — 62.2%
 - **Senior Secondary** (2016–2018), Bihar School Examination Board — 68%
@@ -31,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-💼 **Experience**
+💼 **My Experience**
 - **Data Analyst Intern — ERNET India, IIT Madras Research Park** (Jul 2024 – Jan 2025)  
   - Developed groundwater prediction models (MLR, RFR, ANN, GRU, LSTM) on 2.5K+ data points for sustainable planning.
   - Automated FSOC outage analysis and detected 4 major causes from 180+ days of signal data.
@@ -44,23 +49,24 @@ Here are some ideas to get you started:
 ---
 
 🧑‍💻 **Skills**
-- **Languages:** Python, C, SQL, LaTeX
+- **Languages:** Python, SQL, LaTeX
 - **Libraries/Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, Power BI, MS Excel
 - **Domains:** Machine Learning, Deep Learning, Data Analytics, RDBMS
 
 ---
 
-📚 **Relevant Courses**
-- Data Structures and Algorithms, Foundation of ML, Introduction to Deep Learning, Data Analytics Lab, Numerical Optimization, and more.
-- Online: Advance Diploma in Computer Applications, Master in Data Science (Udemy), Power BI Workshop, TCS iON Career Edge
+😄 Words that describe me - * Self-motivated, Focused, Adaptable, Hardworking & Perfectionist.*
 
 ---
 
-🏅 **Achievements & Activities**
-- **AIR 417** in IIT-JAM (Mathematics); Qualified JEE (2018, 2019) & GATE (Data Science, 2025)
-- Volunteer at Forays 2023 (IIT Madras), managing event ops and participant coordination
-- Represented hostel in Football & Cricket; won 4 medals in inter-hostel Cricket tournaments
+📊 **My Github stats**
 
----
+![Sonalika's github stats](https://github-readme-stats.vercel.app/api?username=Sonalikasingh17&show_icons=true&theme=radical)
 
-✨ **Let's connect, collaborate, and solve data-driven challenges!**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonalikasingh17&layout=compact&show_icons=true&theme=radical)
+
+
+✨ **Let's connect, collaborate, and solve data-driven challenges!*
+
+
