@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 <!-- Add more badges or links as needed -->
 
 ---
-<h4> Data Science & ML Intern | Python |Transforming Data into Actionable Insights | Passionate About Tech for Good .</h4
+<h4> Data Science & ML Intern | Python |Transforming Data into Actionable Insights | Passionate About Tech for Good .</h4>
+                                                                                                                      
 <h4>“To leverage my skills in data analysis, data science, and deep learning to contribute to innovative solutions and organizational growth, while continuously learning and adapting through challenges and achievements.”</h4>  
 
 ---
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 
 ---
 
-🧑‍💻 **Skills**
+🧑‍💻 **My Skills**
 - **Languages:** Python, SQL, LaTeX
 - **Libraries/Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, Power BI, MS Excel
 - **Domains:** Machine Learning, Deep Learning, Data Analytics, RDBMS
@@ -66,7 +67,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonalikasingh17&layout=compact&show_icons=true&theme=radical)
 
-
+---
 ✨ **Let's connect, collaborate, and solve data-driven challenges!*
 
 
