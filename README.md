@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h4> Data Science & ML Intern | Python |Transforming Data into Actionable Insights | Passionate About Tech for Good .</h4>
                                                                                                                       
 <h4>“To leverage my skills in data analysis, data science, and deep learning to contribute to innovative solutions and organizational growth, while continuously learning and adapting through challenges and achievements.”</h4>  
-
+ 
 ---
 
 🎓 **My Education**
