@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me  
  As a **Data Scientist & ML/AI Enthusiast**, I combine my strong foundation in **Mathematics** with a passion for solving real-world data problems. Having completed my M.Sc. in **Mathematics** from **IIT Madras**, I have gained valuable experience through internships at **ERNET India**, IIT Madras Research Park, where I built predictive models and automated analytics and at **IIT Guwahati** (E&ICT Academy), where I worked on deep learning models for image classification.
 
-My journey has equipped me with hands-on expertise in **Python, SQL, TensorFlow, Scikit-learn, numpy, Pandas and Power BI**, and I enjoy exploring **Machine Learning, Deep Learning, NLP, and Data Analytics** to create impactful solutions. Beyond work, I’m deeply interested in dancing and reading which keep me creative and balanced. 
+My journey has equipped me with hands-on expertise in **Python, SQL, TensorFlow, Scikit-learn, numpy, Pandas and Power BI**, and I enjoy exploring **Machine Learning, Deep Learning, NLP, and Data Analytics** to create impactful solutions. Beyond work, I’m deeply interested in dancing and reading useful content about my field - which keep me creative and balanced. 
 
 ---
 
