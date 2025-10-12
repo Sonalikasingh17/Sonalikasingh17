@@ -28,7 +28,7 @@ My journey has equipped me with hands-on expertise in **Python, SQL, TensorFlow,
 - 🌱 I’m currently learning: **CI/CD for ML & Advanced Deep Learning Architectures**  
 - 👯 I’m looking to collaborate on: **Deep Learning & Applied ML Research Projects**  
 - 🤔 I’m looking for help with: **Optimizing ML pipelines for deployment**  
-- 💬 Ask me about: **Python, Machine Learning, Deep Learning & Data Analysis**    
+- 💬 Ask me about: **Python, Machine Learning, Deep Learning & Data Analysis**     
 - 😄 Pronouns: *She/Her*  
 - ⚡ Fun fact: *I enjoy visualizing ML models almost as much as building them!*
 - ✨ Words that describe me - * Self-motivated, Focused, Adaptable, Hardworking & Perfectionist.*
