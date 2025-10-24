@@ -32,7 +32,7 @@ My journey has equipped me with hands-on expertise in **Python, SQL, TensorFlow,
 - 😄 Pronouns: *She/Her*  
 - ⚡ Fun fact: *I enjoy visualizing ML models almost as much as building them!*
 - ✨ Words that describe me - * Self-motivated, Focused, Adaptable, Hardworking & Perfectionist.*
-
+ 
 ---
 
 ### 📊 GitHub Stats  
