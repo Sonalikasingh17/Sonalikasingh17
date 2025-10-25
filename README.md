@@ -8,8 +8,11 @@
 [![Email](https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:singhsonalika5@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sonalika-singh-994a151a8/)
 [![Portfolio Badge](https://img.shields.io/badge/MyPortfolio-%2300C9A7?style=flat&logo=github&logoColor=white)](https://sonalikasingh17.github.io/My_Portfolio_Website/)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sonalikasingh17) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@singhsonalika5)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sonalikasingh17)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@singhsonalika5)
+<!--[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@singhsonalika5)-->
+
+
 
 
 <!-- Add other badges like Portfolio, Medium, Twitter, etc. if needed -->
