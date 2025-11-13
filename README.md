@@ -18,7 +18,7 @@
 <!-- Add other badges like Portfolio, Medium, Twitter, etc. if needed -->
  
 ---
-
+ 
 ### 👨‍💻 About Me  
  As a **Data Scientist & ML/AI Enthusiast**, I combine my strong foundation in **Mathematics** with a passion for solving real-world data problems. Having completed my M.Sc. in **Mathematics** from **IIT Madras**, I have gained valuable experience through internships at **ERNET India**, IIT Madras Research Park, where I built predictive models and automated analytics and at **IIT Guwahati** (E&ICT Academy), where I worked on deep learning models for image classification. 
  
