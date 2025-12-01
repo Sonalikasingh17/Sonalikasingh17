@@ -12,11 +12,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@singhsonalika5)
 <!--[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@singhsonalika5)-->
  
-
-
-
-<!-- Add other badges like Portfolio, Medium, Twitter, etc. if needed -->
- 
 ---
  
 ### 👨‍💻 About Me  
