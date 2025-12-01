@@ -35,9 +35,9 @@ My journey has equipped me with hands-on expertise in **Python, SQL, TensorFlow,
 
 ### 📊 GitHub Stats  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Sonalikasingh17&show_icons=true&theme=radical&rank_icon=github&border_radius=10)  
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sonalikasingh17&show_icons=true&theme=radical&rank_icon=github&border_radius=10)  -->
 <!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Sonalikasingh17&theme=radical) --->
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sonalikasingh17&show_icons=true&theme=radical&rank_icon=github&border_radius=10&token=${{secrets.GH_STATS_TOKEN}}) -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Sonalikasingh17&show_icons=true&theme=radical&rank_icon=github&border_radius=10&token=${{secrets.GH_STATS_TOKEN}}) 
 
 ![Streak Stats](https://streak-stats.demolab.com?user=Sonalikasingh17&theme=radical&&border_radius=10&token=${{secrets.GH_STATS_TOKEN}})
 
