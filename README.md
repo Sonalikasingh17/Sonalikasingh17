@@ -10,7 +10,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/MyPortfolio-%2300C9A7?style=flat&logo=github&logoColor=white)](https://sonalikasingh17.github.io/My_Portfolio_Website/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/sonalikasingh17)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sonalikasingh17/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@singhsonalika5)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@singhsonalika5) 
 <!--[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@singhsonalika5)-->
  
 ---
@@ -18,8 +18,8 @@
 ### 👨‍💻 About Me  
  As a **Data Scientist & ML/AI Enthusiast**, I combine my strong foundation in **Mathematics** with a passion for solving real-world data problems. Having completed my M.Sc. in **Mathematics** from **IIT Madras**, I have gained valuable experience through internships at **ERNET India**, IIT Madras Research Park, where I built predictive models and automated analytics and at **IIT Guwahati** (E&ICT Academy), where I worked on deep learning models for image classification. 
  
-My journey has equipped me with hands-on expertise in **Python, SQL, TensorFlow, Scikit-learn, numpy, Pandas and Power BI**, and I enjoy exploring **Machine Learning, Deep Learning, NLP, and Data Analytics** to create impactful solutions. Beyond work, I’m deeply interested in dancing and reading useful content about my field - which keep me creative and balanced. 
-   
+My journey has equipped me with hands-on expertise in **Python, SQL, TensorFlow, Scikit-learn, numpy, Pandas and Power BI**, and I enjoy exploring **Machine Learning, Deep Learning, NLP, and Data Analytics** to create impactful solutions. Beyond work, I’m deeply interested in dancing and reading useful content about my field - which keep me creative and balanced.
+    
 ---
 
 ### 🚀 What I Do  
@@ -31,7 +31,7 @@ My journey has equipped me with hands-on expertise in **Python, SQL, TensorFlow,
 - 😄 Pronouns: *She/Her*  
 - ⚡ Fun fact: *I enjoy visualizing ML models almost as much as building them!*
 - ✨ Words that describe me - * Self-motivated, Focused, Adaptable, Hardworking & Perfectionist.*
- 
+  
 ---
 
 ### 📊 GitHub Stats  
