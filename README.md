@@ -37,7 +37,7 @@ My journey has equipped me with hands-on expertise in **Python, SQL, TensorFlow,
 ### 📊 GitHub Stats  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sonalikasingh17&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
-
+ 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Sonalikasingh17&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonalikasingh17&layout=compact&theme=radical) 
