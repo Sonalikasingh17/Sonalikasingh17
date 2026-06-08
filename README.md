@@ -47,5 +47,5 @@ My journey has equipped me with hands-on expertise in **Python, SQL, TensorFlow,
 
 ---
 
-✨ **Let’s connect, collaborate, and build impactful AI solutions together!*  
+✨ **Let’s connect, collaborate, and build impactful AI solutions together!*
 
